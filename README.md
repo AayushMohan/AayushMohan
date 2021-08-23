@@ -13,8 +13,6 @@ Skills: HTML / CSS / SCSS / JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushMohan&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AayushMohan)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AayushMohan)  
 
 ![Profile views](https://gpvc.arturio.dev/AayushMohan)  
