@@ -2,8 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning HTML, CSS & JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-on twitter: @AayushMohan, and on Instagram: @thisisaayushmohan
+- 📫 How to reach me on twitter: (https://twitter.com/aayushmohan?lang=en, and on Instagram: https://www.instagram.com/thisisaayushmohan/
 
 
 [![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushMohan)](https://github.com/anuraghazra/github-readme-stats)
