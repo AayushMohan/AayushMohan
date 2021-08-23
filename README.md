@@ -1,4 +1,4 @@
-### Hi there 👋, Aayush Mohan
+### Hi there 👋,This is Aayush Mohan
 I am an Engineering Student and Self-Taught Programmer.
 
 Skills: HTML / CSS / SCSS / JS
