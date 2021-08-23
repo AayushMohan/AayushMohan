@@ -6,11 +6,12 @@
 on twitter: @AayushMohan, and on Instagram: @thisisaayushmohan
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AayushMohan&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AayushMohan&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushMohan)](https://github.com/anuraghazra/github-readme-stats) -->
