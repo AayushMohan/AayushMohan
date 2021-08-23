@@ -5,16 +5,8 @@
 - 📫 How to reach me ...
 on twitter: @AayushMohan, and on Instagram: @thisisaayushmohan
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
-
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushMohan)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushMohan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AayushMohan/AayushMohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
