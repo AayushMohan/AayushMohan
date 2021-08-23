@@ -1,6 +1,6 @@
 <div >
 <h1> Hi there 👋,This is Aayush Mohan <h1>
-<img align='right' src="/.github/giphy.gif" height="" width="300" alt="Programming Man">
+<img align='right' src="/./programming.gif" height="" width="300" alt="Programming Man">
 </div>
 
 <h3>  I am an Engineering Student and Self-Taught Programmer.</h3>
