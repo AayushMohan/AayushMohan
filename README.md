@@ -1,10 +1,13 @@
-##<h1> Hi there 👋,This is Aayush Mohan <h1>
-I am an Engineering Student and Self-Taught Programmer.
-  
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+<div >
+<h1> Hi there 👋,This is Aayush Mohan <h1>
+<img align='right' src="/.github/giphy.gif" height="" width="300" alt="Programming Man">
+</div>
+
+<h3>  I am an Engineering Student and Self-Taught Programmer.</h3>
+ 
 <br>
 <br>
-Skills: HTML / CSS / SCSS / JS
+<p>Skills: HTML / CSS / SCSS / JS<p>
 
 
 <br>
