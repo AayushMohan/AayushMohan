@@ -4,10 +4,16 @@
 
 <h3>  I am an Engineering Student and Self-Taught Programmer.</h3>
 
-<h4>Skills: HTML / CSS / SCSS / JS</h4>
 
+<hr>
 
-<br>
+<h4>Skills:
+<img src="./html-5-icon.png" width="48" align="center">&nbsp;  
+<img src="./css3-icon.png" width="48" align="center">&nbsp;  
+<img src="./sass-icon.png" width="48" align="center">&nbsp;  
+<img src="./javascript-icon.png" width="48" align="center">&nbsp;  
+</h4>
+
 
 
 <hr>
@@ -27,9 +33,12 @@
 Connect with me
 <img src="./community.gif" width="48" align="center">&nbsp;&nbsp;
 </h4>
+
+<a href="https://icons8.com/icon/CtMFJTP5iLtm/twitter-circled"></a>
+
 <p align="left">
 <a href="mailto:aayushmohan1702@gmail.com"><img src="./gmail.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/AayushMohan"><img src="./twitter.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/AayushMohan"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/thisisaayushmohan"><img src="./instagram.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
