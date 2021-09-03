@@ -34,7 +34,7 @@ Connect with me
 <img src="./community.gif" width="48" align="center">&nbsp;&nbsp;
 </h4>
 
-<a href="https://icons8.com/icon/CtMFJTP5iLtm/twitter-circled"></a>
+<a href="https://icons8.com/icon/xWVjuc9hryql/twitter"></a>
 
 <p align="left">
 <a href="mailto:aayushmohan1702@gmail.com"><img src="./gmail.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
