@@ -1,5 +1,5 @@
 <h1> Hey there 👋, This is Aayush Mohan!
-<img align='right' src="/./programmer.gif" height="" width="300" style="border-radius: 20px;" alt="Programming Man">
+<img align='right' src="/./programmer.gif" height="" width="300" alt="Programming Man">
 </h1>
 
 <h3>  I am an Engineering Student and Self-Taught Programmer.</h3>
