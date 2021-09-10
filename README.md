@@ -35,11 +35,14 @@ Connect with me
 </h4>
 
 <a href="https://icons8.com/icon/xWVjuc9hryql/twitter"></a>
+<img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">
 
 <p align="left">
 <a href="mailto:aayushmohan1702@gmail.com"><img src="./gmail.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/AayushMohan"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/thisisaayushmohan"><img src="./instagram.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="www.linkedin.com/in/aayushmohan"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <!---
