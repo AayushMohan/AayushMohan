@@ -35,7 +35,7 @@ Connect with me
 </h4>
 
 <a href="https://icons8.com/icon/xWVjuc9hryql/twitter"></a>
-<img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">
+<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"></a>
 
 <p align="left">
 <a href="mailto:aayushmohan1702@gmail.com"><img src="./gmail.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
