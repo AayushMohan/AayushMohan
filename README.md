@@ -41,7 +41,7 @@ Connect with me
 <a href="mailto:aayushmohan1702@gmail.com"><img src="./gmail.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/AayushMohan"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/thisisaayushmohan"><img src="./instagram.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="linkedin.com/in/aayushmohan"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aayushmohan"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
