@@ -10,8 +10,9 @@
 <h4>Skills:
 <img src="./html-5-icon.png" width="48" align="center">&nbsp;  
 <img src="./css3-icon.png" width="48" align="center">&nbsp;  
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" align="center">&nbsp;
 <img src="./sass-icon.png" width="48" align="center">&nbsp;  
-<img src="./javascript-icon.png" width="48" align="center">&nbsp;  
+<img src="./javascript-icon.png" width="48" align="center">&nbsp;
 </h4>
 
 
