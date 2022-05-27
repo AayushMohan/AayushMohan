@@ -1,5 +1,6 @@
+
 <h1> Hey there 👋, This is Aayush Mohan!
-<img align='right' src="/./programmer.gif" height="" width="300" alt="Programming Man">
+<img align='right' src="/./programmer.gif" height="" width="300" float="right" alt="Programming Man">
 </h1>
 
 <h3>  I am an Engineering Student and Self-Taught Programmer.</h3>
@@ -8,11 +9,23 @@
 <hr>
 
 <h4>Skills:
-<img src="./html-5-icon.png" width="48" align="center">&nbsp;  
-<img src="./css3-icon.png" width="48" align="center">&nbsp;  
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" align="center">&nbsp;
-<img src="./sass-icon.png" width="48" align="center">&nbsp;  
-<img src="./javascript-icon.png" width="48" align="center">&nbsp;
+<img src="./html-5-icon.png" width="48" align="center" alt="HTML">&nbsp;  
+<img src="./css3-icon.png" width="48" align="center" alt="CSS">&nbsp;  
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" align="center" alt="Bootstrap">&nbsp;
+<img src="./sass-icon.png" width="48" align="center" alt="SASS">&nbsp;  
+<img src="./javascript-icon.png" width="48" align="center" alt="JavaScript">&nbsp;
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" align="center" alt="React">&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" align="center"/></a>&nbsp;
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" align="center"/></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" align="center"/></a>&nbsp;
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" align="center"/></a>&nbsp;
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" align="center"/></a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" align="center"/></a>&nbsp;
+</p>
+                    
+
+
+
 </h4>
 
 
