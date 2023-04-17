@@ -25,6 +25,7 @@
 <img src="https://img.icons8.com/color/48/null/tensorflow.png" width="48" align="center" alt="TensorFlow"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/numpy.png" width="48" align="center" alt="Numpy"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/pandas.png" width="48" align="center" alt="Pandas"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/figma--v1.png" width="48" align="center" alt="Figma"/>&nbsp;
 </p>
                     
 
