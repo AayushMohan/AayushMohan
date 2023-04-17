@@ -23,6 +23,8 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" align="center"/></a>&nbsp;
 <img src="https://img.icons8.com/color/48/null/python--v1.png" width="48" align="center" alt="Python"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/tensorflow.png" width="48" align="center" alt="TensorFlow"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/numpy.png" width="48" align="center" alt="Numpy"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/pandas.png" width="48" align="center" alt="Pandas"/>&nbsp;
 </p>
                     
 
